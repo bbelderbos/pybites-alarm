@@ -1,8 +1,0 @@
--r requirements.txt
-pytest
-pytest-cov
-flake8
-mypy
-tox
-psutil==5.8.0
-SpeechRecognition==3.8.1
